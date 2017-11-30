@@ -9,10 +9,8 @@
 不断行的空白格:&nbsp;或:&#160;；</br>
 ### （1）常用的MarkDown工具
 - **[VSCode](https://code.visualstudio.com/)**
-- Atom
-- Byword
-- Mou
-- MacDown
+- **[Byword](https://bywordapp.com/)**
+- **[MacDown](http://macdown.uranusjr.com/)**
 ### （2）特殊文本格式：
 > cmake_minimum_required(VERSION 3.4.1)</br>
 > #设置OpenCV的路径</br>

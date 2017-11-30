@@ -8,13 +8,11 @@
 全方大的空白:&emsp;或:&#8195;；</br>
 不断行的空白格:&nbsp;或:&#160;；</br>
 ### （1）常用的MarkDown工具
-- OSX
-- VSCode
+- **[VSCode](https://code.visualstudio.com/)**
 - Atom
 - Byword
 - Mou
 - MacDown
-
 ### （2）特殊文本格式：
 > cmake_minimum_required(VERSION 3.4.1)</br>
 > #设置OpenCV的路径</br>
@@ -30,5 +28,9 @@ int main() //C语言是从main()函数开始的
   return 0; 
 }
 ```
+
+### （4）显示图片
+<img src="http://ww1.sinaimg.cn/large/005Xtdi2jw1f9k7b8a6vmj312w0rg143.jpg" width="300"/>
+<img src="https://github.com/PanJinquan/DlibDemo/blob/master/DlibDemo/images/1.jpg" width="300">
 
 > **注意：** 虽然浏览器存储大部分时候都比较可靠，但为了您的数据安全，在联网后，**请务必及时发表或者保存到服务器草稿箱**。

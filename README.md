@@ -39,3 +39,5 @@ int main() //C语言是从main()函数开始的
 ### （5）git常用的命令
 > git reset –soft：回退到某个版本，只回退了commit的信息，不会恢复到index  file一级。如果还要提交，直接commit即可。 </br>
 > git reset –hard：彻底回退到某个版本，本地的源码也会变为上一个版本的内容。  </br>
+
+### （6）
